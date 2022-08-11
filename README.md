@@ -6,7 +6,9 @@ Scenario: To help a medical staffing agency prepare for the upcoming flu season 
 
 ## Data 
 Open source data:
-Influenza deaths by geography, time, age, and gender available [here](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx), source [CDC](https://wonder.cdc.gov/ucd-icd10.html)
+- Influenza deaths by geography, time, age, and gender available [here](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx), source [CDC](https://wonder.cdc.gov/ucd-icd10.html)
+- Population data by geography available [here](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv), source US Census Bureau
+- Influenza lab test results by state available [here](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Influenza_Visits.xlsx), source [CDC_Fluview](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
 
 ## Tools
 - SQL - to retrieve data from relational database management system (RDBMS) and analyze the data, available [here](https://github.com/Smologonova/Rockbuster_Project/blob/main/SQL%20Queries).
