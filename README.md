@@ -11,9 +11,8 @@ Open source data:
 - Influenza lab test results by state available [here](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Influenza_Visits.xlsx), source [CDC_Fluview](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
 
 ## Tools
-- SQL - to retrieve data from relational database management system (RDBMS) and analyze the data, available [here](https://github.com/Smologonova/Rockbuster_Project/blob/main/SQL%20Queries).
-- Excel – to analyze, find insights and prepare charts, available [here](https://github.com/Smologonova/Rockbuster_Project/blob/main/queries_and_outputs.xlsx).
-- Tableau - to turn insights into interactive data visualization, available [here](https://public.tableau.com/app/profile/iryna.smologonova/viz/Rockbuster_16542998273360/Revenuebycountry?publish=yes).
+- Excel – to analyze by coducting statistical analysis and hypothesis testing, find insights and prepare data for a [project interim report]().
+- Tableau - to turn data and insights into interactive storytelling, available [here](https://public.tableau.com/app/profile/iryna.smologonova/viz/Preparingforinfluenzaseason/PreparationtoupcominginfluenzaseasonintheUS).
 
 ## Result 
 [Rockbuster Stealth Presentation Slides](https://github.com/Smologonova/Rockbuster_Project/blob/main/Presentation%20slides_Rockbuster%20Stealth.pdf)
