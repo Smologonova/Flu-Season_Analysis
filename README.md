@@ -11,7 +11,7 @@ Open source data:
 - Influenza lab test results by state available [here](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Influenza_Visits.xlsx), source [CDC_Fluview](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
 
 ## Tools
-- Excel – to analyze by coducting statistical analysis and hypothesis testing, find insights and prepare data for a [project interim report]().
+- Excel – to analyze by coducting statistical analysis and hypothesis testing, find insights and prepare data for a [project interim report](https://github.com/Smologonova/Flu-Season_Analysis/blob/main/Interim%20report_Flu%20Season.pdf).
 - Tableau - to turn data and insights into interactive storytelling, available [here](https://public.tableau.com/app/profile/iryna.smologonova/viz/Preparingforinfluenzaseason/PreparationtoupcominginfluenzaseasonintheUS).
 
 ## Result 
