@@ -17,9 +17,9 @@ Open source data:
 ## Result 
 [Storytelling in Tableau](https://public.tableau.com/app/profile/iryna.smologonova/viz/Preparingforinfluenzaseason/PreparationtoupcominginfluenzaseasonintheUS?publish=yes)
 - Focus on:
--6 top states with the highest death rate: Alaska, Hawaii, Wyoming, District of Columbia, South and North Dakota, Vermont
--5 top states with the highest elderly populations:California, Texas, Florida, New York and  Pennsylvania
-the influenza season months: Dec-Mar with a peak in Jan
+- 6 top states with the highest death rate: Alaska, Hawaii, Wyoming, District of Columbia, South and North Dakota, Vermont
+- 5 top states with the highest elderly populations:California, Texas, Florida, New York and  Pennsylvania
+- the influenza season months: Dec-Mar with a peak in Jan
 
 
 
