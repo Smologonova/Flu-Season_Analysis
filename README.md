@@ -15,9 +15,12 @@ Open source data:
 - Tableau - to turn data and insights into interactive storytelling, available [here](https://public.tableau.com/app/profile/iryna.smologonova/viz/Preparingforinfluenzaseason/PreparationtoupcominginfluenzaseasonintheUS).
 
 ## Result 
-[Rockbuster Stealth Presentation Slides](https://github.com/Smologonova/Rockbuster_Project/blob/main/Presentation%20slides_Rockbuster%20Stealth.pdf)
-- Start the streaming service by piloting in top 3 countries – India, China and United States by total revenue and number of customers as they account for 25% of all revenue and customer base. 
-- Add to inventory movies: ratings PG-13 & NC 17 generating the most revenue and genres Comedy, New & Sports producing more revenue per film. 
-- Implement online acquiring customer loyalty program by launching a bonus system.
+[Storytelling in Tableau](https://public.tableau.com/app/profile/iryna.smologonova/viz/Preparingforinfluenzaseason/PreparationtoupcominginfluenzaseasonintheUS?publish=yes)
+- Focus on:
+-6 top states with the highest death rate: Alaska, Hawaii, Wyoming, District of Columbia, South and North Dakota, Vermont
+-5 top states with the highest elderly populations:California, Texas, Florida, New York and  Pennsylvania
+the influenza season months: Dec-Mar with a peak in Jan
+
+
 
 
