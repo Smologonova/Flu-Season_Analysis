@@ -21,7 +21,7 @@ Open source data:
 - 5 top states with the highest elderly populations:California, Texas, Florida, New York and  Pennsylvania
 - the influenza season months: Dec-Mar with a peak in Jan
 
-## Key learning experience
+## Key takeaways
 - It is important to consider data limitations and assess the impact of it on the analysis and the result interpretation. As analysis progresses, data limitations may become apparent and should be added to the analysis plan.
 - Data mapping helps to match variables between different data sets. Death data and population data by states were mapped using age variable on 10 years ranges starting from age of 5 years old.
 - Normalization is a part of data preparation and allows data in different units to be compared using the same units. The flu deaths data was normalized according to state populations by deriving new variables representing flu deaths as a percentage of state population.
